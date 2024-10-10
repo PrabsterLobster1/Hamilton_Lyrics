@@ -23,7 +23,7 @@ Hamilton_Lyrics/
 │
 ├── SongNames.txt     # Contains a list of all Hamilton song titles
 ├── SongLinkPairs.txt # Generated file with song name and link pairs
-└── lyrics_scraper.py # Main script to run the scraper
+└── LyricsScraper.py # Main script to run the scraper
 ```
 
 ## 🚀 Getting Started
@@ -49,7 +49,7 @@ Make sure you have the following installed:
 
 4. Run the scraper:
    ```bash
-   python lyrics_scraper.py
+   python LyricsScraper.py
    ```
 
 ### 🎵 Example `SongNames.txt`:
